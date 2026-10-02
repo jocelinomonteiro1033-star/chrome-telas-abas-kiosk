@@ -4,7 +4,9 @@ Aplicativo portátil para Windows que abre o Google Chrome em modo quiosque nas 
 
 ## Download
 
-Baixe `ChromeTelasAbasKiosk.exe` na seção **Releases** do GitHub ou diretamente nos arquivos deste repositório. Não é necessário instalar.
+[**Baixar ChromeTelasAbasKiosk.exe**](https://github.com/jocelinomonteiro1033-star/chrome-telas-abas-kiosk/raw/refs/heads/main/ChromeTelasAbasKiosk.exe)
+
+Não é necessário instalar. Salve o arquivo em uma pasta local e execute-o no Windows.
 
 ## Recursos
 
