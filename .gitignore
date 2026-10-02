@@ -1,0 +1,12 @@
+# Configurações locais e artefatos antigos
+config.ini
+kiosk.log
+maintenance.flag
+Chrome-Tela*/
+Edge-Tela*/
+
+# Executáveis intermediários/antigos
+DualScreenKiosk.exe
+DualChromeKiosk.exe
+ChromeDuasTelasKiosk.exe
+KIOSKE_*.exe
